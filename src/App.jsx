@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import Ejercicio2 from './Ejercicio2';
-// import Ejercicio3 from './Ejercicio3';
+
 
 
 const App = () => {
